@@ -1,4 +1,4 @@
 # apnacollege-demo
 DEMO
 <br>
-Author - Rutuj Shah
+Author - Rutuj
